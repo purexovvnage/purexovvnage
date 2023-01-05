@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purexovvnage
-- 👀 I’m interested in ... milady
+- 👀 I’m interested in ... webgl
 - 🌱 I’m currently learning ... organization
 - 💞️ I’m looking to collaborate on ... god
 - 📫 How to reach me ... purexovvnage@yahoo.com
